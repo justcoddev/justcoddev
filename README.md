@@ -12,6 +12,9 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -44,5 +47,21 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/justcoddev/justcoddev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=justcoddev.justcoddev" alt="visitor badge"/>
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=justcoddev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
