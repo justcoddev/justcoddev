@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edison</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justcoddev&label=Profile%20views&color=0e75b6&style=flat" alt="justcoddev" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=justcoddev&label=Profile%20views&color=0e75b6&style=flat" alt="justcoddev" /> </p-->
 
 
 - 🔭 I’m currently working on [Curricular Integration Project](justcoddev.com)
@@ -76,12 +76,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/justcoddev/justcoddev/output/snake.svg" alt="Snake animation" />
 
 ###
 
