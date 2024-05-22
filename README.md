@@ -4,25 +4,9 @@
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=justcoddev&label=Profile%20views&color=0e75b6&style=flat" alt="justcoddev" /> </p-->
 
 
-- 🔭 I’m currently working on [Curricular Integration Project](justcoddev.com)
+- 🔭 Desarrollador web freelance con +3 años de experiencia en crear páginas web dinámicas y responsivas. Me apasiona el desarrollo web y mi objetivo es seguir aprendiendo, innovando y aportando valor en cada proyecto. Comprometido y creativo, disfruto de los desafíos y del trabajo en equipo, además de contribuir activamente a la comunidad con mis conocimientos.
 
-- 🌱 I’m currently learning **Js**
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤝 I’m looking for help with [Microfrontend](justcoddev.com)
-
-- 👨‍💻 All of my projects are available at ...
-
-- 📝 I regularly write articles on ...
-
-- 💬 Ask me about **...**
-
-- 📫 How to reach me **...**
-
-- 📄 Know about my experiences ...
-
-- ⚡ Fun fact **5 months without coffee**
+- ⚡ Fun fact **2 months without coffee**
 
 
 <!--p align="left">
