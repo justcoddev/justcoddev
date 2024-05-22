@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Edison</h1>
+<h2 align="center">Hi 👋, I'm Edison</h2>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=justcoddev&label=Profile%20views&color=0e75b6&style=flat" alt="justcoddev" /> </p-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justcoddev&label=Profile%20views&color=0e75b6&style=flat" alt="justcoddev" /> </p>
 
 
 - 🔭 Desarrollador web freelance con +3 años de experiencia en crear páginas web dinámicas y responsivas. Me apasiona el desarrollo web y mi objetivo es seguir aprendiendo, innovando y aportando valor en cada proyecto. Comprometido y creativo, disfruto de los desafíos y del trabajo en equipo, además de contribuir activamente a la comunidad con mis conocimientos.
