@@ -3,8 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justcoddev&label=Profile%20views&color=0e75b6&style=flat" alt="justcoddev" /> </p>
 
+---
 
-- 🔭 Desarrollador web con +5 años de experiencia en crear páginas web dinámicas y responsivas. Me apasiona el desarrollo web y mi objetivo es seguir aprendiendo, innovando y aportando valor en cada proyecto. Comprometido y creativo, disfruto de los desafíos y del trabajo en equipo, además de contribuir activamente a la comunidad con mis conocimientos.
+IT Engineer and Web Developer with more than three years of experience.
+
+Stand out for constant search for knowledge and effort to improve every day, both personally and professionally. In addition, recognized for optimistic attitude, dynamism and willingness to collaborate, as well as for ability to manage interpersonal relationships and appreciation for teamwork.
+
+Always open to new opportunities and challenges that allow to grow and add value in technological field.
 
 - ⚡ Fun fact **2 months without coffee**
 
