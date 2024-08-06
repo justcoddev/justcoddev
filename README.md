@@ -5,7 +5,7 @@
 
 ---
 
-IT Engineer and Web Developer with more than three years of experience.
+IT Engineer and Web Developer with experience.
 
 Stand out for constant search for knowledge and effort to improve every day, both personally and professionally. In addition, recognized for optimistic attitude, dynamism and willingness to collaborate, as well as for ability to manage interpersonal relationships and appreciation for teamwork.
 
