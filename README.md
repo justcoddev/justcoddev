@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Edison</h2>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justcoddev&label=Profile%20views&color=0e75b6&style=flat" alt="justcoddev" /> </p>
-
 ---
 
 IT Engineer and Web Developer with experience.
@@ -10,8 +8,6 @@ IT Engineer and Web Developer with experience.
 Stand out for constant search for knowledge and effort to improve every day, both personally and professionally. In addition, recognized for optimistic attitude, dynamism and willingness to collaborate, as well as for ability to manage interpersonal relationships and appreciation for teamwork.
 
 Always open to new opportunities and challenges that allow to grow and add value in technological field.
-
-- ⚡ Fun fact **2 months without coffee**
 
 
 <!--p align="left">
