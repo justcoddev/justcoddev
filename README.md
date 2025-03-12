@@ -65,7 +65,7 @@ Always open to new opportunities and challenges that allow to grow and add value
 ###
 
 <div align="center">
-   <!--img src="https://visitor-badge.laobi.icu/badge?page_id=justcoddev.justcoddev" alt="visitor badge"/-->
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=justcoddev.justcoddev" alt="visitor badge"/>
 </div>
 
 ###
